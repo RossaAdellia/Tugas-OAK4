@@ -17,7 +17,7 @@ Contoh :
 - BUS ISA ( Industry Standart Architecture )
    Industri computer personal lainnya merespon perkembangan ini dengan mengadopsi standarnya sendiri, bus ISA, yang pada dasarnya adalah bus PC/AT yang beroperasi pada 8,33 MHz. Keuntungannya adalah bahwa pendekatan ini tetap mempertahankan kompatibilitas dengan mesin-mesin dan kartu-kartu yang ada.
 
-2.. - Habisnya kapasitas transfer Bus sehingga memperlambat data, jadi setiap bus mempunyai lebar bus masing-masing jika kapasitas transfer data disini melebihi maka transfer data akan lambat. 
+2. Habisnya kapasitas transfer Bus sehingga memperlambat data, jadi setiap bus mempunyai lebar bus masing-masing jika kapasitas transfer data disini melebihi maka transfer data akan lambat. 
 - Antrian penggunaan bus semakin panjang, Hal ini sama seperti memperlambat data jika banyak banyaknya penggunaan bus maka data juga lambat data mentransfer.
 - Semakin besar delay propagasi untuk mengkoordinasikan penggunaan bus.
 
